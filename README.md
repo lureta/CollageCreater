@@ -1,5 +1,5 @@
 # CollageCreater
-Built with HTML, CSS, and JavaScript
+Built with HTML, CSS, and JavaScript.
 Allows users to create collage boards entirely in the browser with no backend required.
 
 Features
