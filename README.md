@@ -1,6 +1,6 @@
-# PinterestCollageCreater
+# CollageCreater
 Built with HTML, CSS, and JavaScript
-Allows users to create Pinterest-style collage boards entirely in the browser with no backend required.
+Allows users to create collage boards entirely in the browser with no backend required.
 
 Features
 - Upload local images or paste image URLs
